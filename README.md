@@ -17,12 +17,12 @@
 ### [POKEDEX](https://brunomachadors.github.io/pokedex/)
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/a9d48de1-d67c-4c07-aa3d-5a767f44e7fb" width="300" height="200" alt="POKEDEX">
 
-[POKEDEX REPOSITORY]([https://github.com/brunomachadors/Fetch-a-pee-I](https://github.com/brunomachadors/pokedex))
+[POKEDEX REPOSITORY](https://github.com/brunomachadors/pokedex)
 
 ### BOOKFLIX
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/0ff1a180-4a3e-4731-9f7d-7b5c17034c79" width="400" alt="BOOKFLIX">
 
-[BOOKFLIX REPOSITORY]([https://github.com/brunomachadors/Fetch-a-pee-I](https://github.com/brunomachadors/bookflix))
+[BOOKFLIX REPOSITORY](https://github.com/brunomachadors/bookflix)
 
 ### FETCH A PEE I
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/47948b28-62a5-499b-8e74-dba3ce0bfe4b" width="300" height="200" alt="LandingPage">
