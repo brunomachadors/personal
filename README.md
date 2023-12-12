@@ -29,7 +29,7 @@ My name is [Bruno Machado](https://www.linkedin.com/in/brunomrs/) here is some i
 
 ## RECENT PROJECTS
 
-### POKEDEX
+### [POKEDEX](https://brunomachadors.github.io/pokedex/)
 
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/a9d48de1-d67c-4c07-aa3d-5a767f44e7fb" width="300" height="200" alt="POKEDEX">
 
@@ -38,6 +38,8 @@ My name is [Bruno Machado](https://www.linkedin.com/in/brunomrs/) here is some i
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/0ff1a180-4a3e-4731-9f7d-7b5c17034c79" width="400" alt="BOOKFLIX">
 
 ### FETCH A PEE I
+
+[REPOSITORY](https://github.com/brunomachadors/Fetch-a-pee-I)
 
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/47948b28-62a5-499b-8e74-dba3ce0bfe4b" width="300" height="200" alt="LandingPage">
 
