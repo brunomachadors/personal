@@ -32,3 +32,20 @@ My name is [Bruno Machado](https://www.linkedin.com/in/brunomrs/) here is some i
 ### POKEDEX
 
 ![POKEDEX](https://github.com/brunomachadors/brunomachadors/assets/60748944/a9d48de1-d67c-4c07-aa3d-5a767f44e7fb)
+
+
+### BOOKFLIX
+
+<img width="1070" alt="preview" src="https://github.com/brunomachadors/brunomachadors/assets/60748944/0ff1a180-4a3e-4731-9f7d-7b5c17034c79">
+
+
+### FETCH A PEE I
+
+![LandingPage](https://github.com/brunomachadors/brunomachadors/assets/60748944/47948b28-62a5-499b-8e74-dba3ce0bfe4b)
+
+
+![BreedsPage](https://github.com/brunomachadors/brunomachadors/assets/60748944/8e4a8b1b-6744-4f1d-9825-b874794df613)
+
+
+
+
