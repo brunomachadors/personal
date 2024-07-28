@@ -10,7 +10,7 @@
 - 💾 Know Javascript/Typescript, React, Styled Components, html, css, redux
 - 👰🏻 Married with Aline
 - 🐶 Pantufa
-- 🎓 Mentor na área de automação de testes
+- 🎓 Automation Testing Mentor
 
 ## RECENT PROJECTS
 
