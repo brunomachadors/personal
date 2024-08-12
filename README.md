@@ -5,8 +5,8 @@
 - 🏢 Working at [Mindera](https://mindera.com/)
 - 💻 Working as Quality Assurance Engineer
 - 👶🏻 Born in 1986
-- 📜 Learning Typescript
-- 🖥️ Favourite language Javascript
+- 📜 Learning Backend Development
+- 🖥️ Favourite language Typescript
 - 💾 Know Javascript/Typescript, React, Styled Components, html, css, redux
 - 👰🏻 Married with Aline
 - 🐶 Pantufa
