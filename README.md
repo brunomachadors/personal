@@ -1,7 +1,8 @@
-<img src='https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e' width="800" alt="HEADER">
-
 # BRUNO MACHADO
 
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lsMG02Z2VtcDFiazR4ZDMxZ3NzcDJ6M21yczgwNDI3OTAxejhpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp' width="400" style="float: left; margin: 0;">
+
+### Profile Info
 - 🏢 Working at [Mindera](https://mindera.com/)
 - 💻 Working as Quality Assurance Engineer
 - 👶🏻 Born in 1986
@@ -11,6 +12,7 @@
 - 👰🏻 Married with Aline
 - 🐶 Pantufa
 - 🎓 Automation Testing Mentor
+
 
 ## RECENT PROJECTS
 
