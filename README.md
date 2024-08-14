@@ -1,6 +1,6 @@
 # BRUNO MACHADO
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lsMG02Z2VtcDFiazR4ZDMxZ3NzcDJ6M21yczgwNDI3OTAxejhpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp' width="400" style="float: left; margin: 0;">
+<img src='https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif' width="800" style="float: left; margin: 0;">
 
 ### Profile Info
 - 🏢 Working at [Mindera](https://mindera.com/)
@@ -12,6 +12,9 @@
 - 👰🏻 Married with Aline
 - 🐶 Pantufa
 - 🎓 Automation Testing Mentor
+
+
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lsMG02Z2VtcDFiazR4ZDMxZ3NzcDJ6M21yczgwNDI3OTAxejhpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp' width="250" style="float: left; margin: 0;">
 
 
 ## RECENT PROJECTS
