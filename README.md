@@ -24,7 +24,7 @@
 
 [BUG BUSTER REPOSITORY](https://github.com/brunomachadors/bugbuster)
 
-### [PLAYGROUND](https://brunomachadors.github.io/playground/)
+### [PLAYGROUND](https://playground-drab-six.vercel.app/)
 <img src="https://res.cloudinary.com/dtglidvcw/image/upload/v1722156634/BUGBUSTER/playground.png" width="400" alt="Playground">
 
 [PLAYGROUND REPOSITORY](https://github.com/brunomachadors/playground)
@@ -34,13 +34,13 @@
 
 [POKEDEX REPOSITORY](https://github.com/brunomachadors/pokedex)
 
-### [BOOKFLIX](https://brunomachadors.github.io/bookflix/)
+### [BOOKFLIX](https://github.com/brunomachadors/bookflix)
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/0ff1a180-4a3e-4731-9f7d-7b5c17034c79" width="400" alt="BOOKFLIX">
 
 [BOOKFLIX REPOSITORY](https://github.com/brunomachadors/bookflix)
 
-### [FETCH A PEE I](https://brunomachadors.github.io/fetch-a-pee-i/)
+### [FETCH A PEE I](https://brunomachadors.github.io/fetchapeei/)
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/47948b28-62a5-499b-8e74-dba3ce0bfe4b" width="300" height="200" alt="LandingPage">
 <img src="https://github.com/brunomachadors/brunomachadors/assets/60748944/8e4a8b1b-6744-4f1d-9825-b874794df613" width="300" height="200" alt="BreedsPage">
 
-[DOG PAGE REPOSITORY](https://github.com/brunomachadors/Fetch-a-pee-I)
+[DOG PAGE REPOSITORY](https://github.com/brunomachadors/fetchapeei)
